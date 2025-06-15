@@ -14,7 +14,7 @@
     <!-- cookies -->
     <div class="window_kuki">
     <div class="inner_kuki">
-        <p>Продолжая использовать наш сайт, вы даете согласие на обработку файлов cookie и соглашаетесь с <a href="/privacy-policy/" target="_blank">политикой конфиденциальности</a> и <a href="/soglasie-na-obrabotku-personalnyh-dannyh/" target="_blank">обработкой персональных данных</a></p>
+        <p>Продолжая использовать наш сайт, вы даете <a href="/soglasie-na-obrabotku-personalnyh-dannyh/" target="_blank">согласие на обработку файлов cookie</a> и соглашаетесь с <a href="/privacy-policy/" target="_blank">политикой конфиденциальности</a> и <a href="/soglasie-na-obrabotku-personalnyh-dannyh/" target="_blank">обработкой персональных данных</a></p>
         <button class="btn_kuki button">Хорошо</button>
     </div>
     </div>
